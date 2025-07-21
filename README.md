@@ -4,10 +4,10 @@ Este projeto é um microserviço desenvolvido em **Java com Spring Boot** para c
 
 📧 Este serviço trabalha em conjunto com o microserviço de email, que consome as mensagens da fila e realiza o envio.
 
-Repositório do microserviço de email (TODO: adicionar depois)=>
+Repositório do microserviço de email =>
 
 ```bash
-
+https://github.com/iagooteles/email-ms-java
 ```
 
 ---
